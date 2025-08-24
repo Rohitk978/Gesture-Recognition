@@ -21,4 +21,7 @@ This repository contains a machine learning project focused on recognizing hand 
 - **Error Handling**: Includes checks for file existence and image loading to ensure robust execution.
 - **Gesture Mapping**: Converts predicted indices to human-readable gesture names, customizable based on the dataset's folder contents.
 
+## Dataset
+- The project uses the **Hand Gesture Recognition Dataset** available on Kaggle: **[https://www.kaggle.com/datasets/aryarishabh/hand-gesture-recognition-dataset/data](https://www.kaggle.com/datasets/aryarishabh/hand-gesture-recognition-dataset/data)**. This dataset provides 24,000 images across 20 gesture classes, serving as the foundation for training and evaluation.
+
 This project provides a foundation for gesture recognition applications, with flexibility to adapt the gesture mapping to specific use cases or datasets.
